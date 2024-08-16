@@ -7,6 +7,8 @@
 
 ![Vinicius GitHub stats](https://github-readme-stats.vercel.app/api?username=Viniciusvbss&show_icons=true&theme=radical)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Viniciusvbss&size_weight=0.5&count_weight=0.5)
+
 ## Tecnologias que uso no meu dia
 
 <div style="display: inline-block"></br>
@@ -18,6 +20,7 @@
     <img style="text-align: center" alt="Postgresql" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
 </div>
 </br>
+
 
 Sou estudante de Análise e Desenvolvimento de Sistemas (ADS) e estou migrando de carreira. Atualmente, trabalho como auxiliar de cozinha no grupo Madero. Possuo foco em desenvolvimento com JavaScript, HTML, CSS, SQL, ANGULAR e outras tecnologias que uso para criar aplicações web de alto nível e valor.
 
