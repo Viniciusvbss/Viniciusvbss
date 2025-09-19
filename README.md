@@ -26,6 +26,6 @@
 </br>
 
 
-Sou estudante de Análise e Desenvolvimento de Sistemas (ADS) e estou migrando de carreira. Atualmente, trabalho como auxiliar de cozinha no grupo Madero. Possuo foco em desenvolvimento com JavaScript,N ODE.JS, SQL, VUE.JS e outras tecnologias que uso para criar aplicações web de alto nível e valor.
+Sou estudante de Análise e Desenvolvimento de Sistemas (ADS) e estou migrando de carreira. Atualmente, trabalho como auxiliar de cozinha no grupo Madero. Possuo foco em desenvolvimento com JAVASCRIPT, NODE.JS, SQL, VUE.JS e outras tecnologias que uso para criar aplicações web de alto nível e valor.
 
 Considero-me ágil e consistente em aprender novas linguagens e me adapto facilmente a qualquer mudança, estando sempre pronto para superar desafios! Se eu pudesse me definir em quatro palavras, seriam: otimista, prestativo, perseverante e esforçado! 😄
