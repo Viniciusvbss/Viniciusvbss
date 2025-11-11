@@ -21,7 +21,6 @@ Utilizo Tailwind CSS, Material UI e PrimeVue para criar interfaces modernas, res
 Também possuo domínio em Git e GitHub, versionando projetos de forma organizada, com uso de branches, pull requests e commits padronizados, promovendo um fluxo de trabalho limpo e colaborativo.
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-barbosa-soares/)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-barbosa-soares/)
 
 ## Tecnologias que uso no meu dia a dia:
 <div style="display: inline-block">
