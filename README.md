@@ -1,6 +1,4 @@
 
-### 👋 Olá! Eu sou o Vinicius Barbosa
-
 ### 💻 Desenvolvedor Front-End
 
 ## 🧠 Sobre mim
